@@ -23,3 +23,14 @@ Ensure you have the `requests` library installed. If not, you can install it usi
 
 - Run the script and input a country name or "global" when prompted.
 - The script will then fetch and display the relevant population information.
+
+## Dependencies:
+
+- **requests**: Used for making HTTP requests to the REST Countries API.
+
+## Note:
+
+- Ensure an active internet connection for the script to fetch data from the REST Countries API.
+- Handle user input carefully to avoid errors related to invalid country names.
+
+Feel free to incorporate and modify this script based on your needs. For any issues, please refer to the error messages or seek documentation for assistance.
